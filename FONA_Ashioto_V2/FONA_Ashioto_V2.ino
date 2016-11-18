@@ -216,7 +216,7 @@ void ashiotopost(long count) {
   char url[80] = "ashioto.xyz/count_update";
 
   char data[80] ;
-  sprintf(data, "{\"count\":%lu ,\"eventCode\":\"balaji\", \"gateID\": 1}", count);
+  sprintf(data, "{\"count\":%lu ,\"eventCode\":\"deepotsav16\", \"gateID\": 1}", count);
 
 
 
